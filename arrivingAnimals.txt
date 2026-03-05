@@ -1,0 +1,9 @@
+Hyena,4
+Hyena,2
+Lion,5
+Tiger,3
+Bear,7
+Hyena,6
+Lion,4
+Tiger,5
+Bear,3
